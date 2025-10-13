@@ -1,5 +1,8 @@
 # Milestone_1_PLN
 1ºParte trabajo de Procesamiento de Lenguaje Natural Escrito 
+
+ARCHIVO CORRECTO: Tarea_1_proyecto_PLN.ipynb
+
 Fran ha realizado su parte del trabajo, ha cargado el dataset, ha hecho una exploracion de este para futuras limpiezas, luego a limpiado el dataset (espaciado, signos de puntuacion inecesarios, etc) a partir de las salidas obtenidas en la EDA. A posteriori, se ha realizado una extracción lingüistica de la informacion para obtener un vocabulario filtrado y con las palabras mas frecuentes anotadas como insultos (aunque en realidad hay muchas que no las hay). También hemos obtenido n-gramas para formar un vocabulario robusto de insultos frecuentes en el idioma portugués y considerarlo como primera regla de activacion para clasificar un post como ofensivo. Y por último se ha mostrado como el siguiente alumno debe seguir el trabajo buscando patrones con ayuda del vocabulario de palabras negativas o insultos para formalizar reglas y posteriormente su programacion y su orden de activación segun su importancia (para eso hay que basarse en porcentajes dentro del dataset viendo que porcentaje de los posts que cumplen la regla dentro del dataset se consideran como ofensivos). Finalmente se probará cuales son el conjunto de reglas que mejor accurcy tiene para predecir los posts del dataset. Para ello iremos probando si con una regla solo las metricas van mejor o si la combinacion de estas tres reglsa pera esta otra no consigue la mejor combinacion de sistema de reglas para predecir los posts.
 
 Además, faltará redactar el proceso en un documento aparte en inglés (uno es español para entendernos nosotros y el de entrega en inglés) y borrar todos los emojis del código --> sino canta mucho que lo ha hecho chatgpt
