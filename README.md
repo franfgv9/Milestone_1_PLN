@@ -17,8 +17,12 @@ Además, faltará redactar el proceso en un documento aparte en inglés (uno es 
 
 También, se reestructurará el archivo .ipynb porque hay varias celdas de código que no aportan infromación real en las decisiones o desarrollo posterior del proyecto o directamente no funcionan, y se dejará solo lo relevante. Incluso habrá que modificar los comentarios de texto despues del código que lo explican y luego traducirlo al inglés.
 
+SPLIT TRAIN Y TEST solo es para la estructura del siguiente codigo. Aplicar las reglas sobre test y medir resultados.
+
+BUSCAR O INVESTIIGAR alguna bibliotrca que te de una lista de insultos y otra de insultos hechos (n-gramas) o escribir una muy grande manualmente y probar de nuevo porcentaje de reglas
+
 PREGUNTAS PROFESORA:
-1. ¿Cómo debo usar chatgpt? ¿Lo puedo usar para que me dé el código o para que?
+1. ¿Cómo debo usar chatgpt? ¿Lo puedo usar para que me dé el código o para que? 
 2. ¿Debo basarme en las practicas y su código para hacer el trabajo? ¿Para que sirven entonces? ¿Cuál es la práctica en la que debo fijarme para hacer el proyecto? ¿Practica 1 y 2 solo? (pues la practica 3 y 4 es sobre aprendizaje automatico --> modelos para entrenar y predecir)
 3. ¿Dónde puedo investigar para hacer el resto del trabajo?
 4. ¿Puedo tener los comentarios del código en español para aclararme yo mejor o es necesario tenerlos en ingles/portuges? ¿Y sobre la doc del trabajo?
